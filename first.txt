@@ -3,3 +3,4 @@ gitの勉強
 .git add
 .git commit (.git commit -v とすると変更箇所を表示させることができる)
 .git rm
+.git status
